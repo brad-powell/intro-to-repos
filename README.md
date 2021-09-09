@@ -1,4 +1,4 @@
-# Introduction to Databricks Repos
+# Introduction to Databricks Repos - Can I make edits?
 
 This repository is provided as a companion resource for the course "Introduction to Databricks Repos" hosted on the [Databricks Academy](https://academy.databricks.com/).
 

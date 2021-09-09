@@ -47,6 +47,10 @@ display(df)
 
 # COMMAND ----------
 
+# MAGIC %dirs
+
+# COMMAND ----------
+
 display(df.select(roundedTemp("unit", "temp")))
 
 # COMMAND ----------
